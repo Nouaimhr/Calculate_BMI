@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+Screenshots 
 
-This project is a starting point for a Flutter application.
+![Screenshot_1685085666](https://github.com/Nouaimhr/Calculate_BMI/assets/134369177/04254649-4512-44e9-be46-659a19b5d737)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1685085672](https://github.com/Nouaimhr/Calculate_BMI/assets/134369177/fa2a8e21-3177-41d0-99fa-42a1042c7680)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1685085681](https://github.com/Nouaimhr/Calculate_BMI/assets/134369177/be1eb222-fff6-47ab-813b-bc02c8a0677d)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
